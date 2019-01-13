@@ -1,0 +1,2 @@
+# configprops
+global Config 
